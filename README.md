@@ -76,4 +76,4 @@ Para contribuir e deixar a comunidade open source um lugar incrivel para aprende
 ## Autores
 
 - **[Antonielli Dalcim do Nascimento Nunes](https://github.com/Antoniellin)** - _Acadêmica do Curso de Ciência da Computação -UFFS_. 
-- **[Obenson Maurice]([https://github.com/Antoniellin](https://github.com/obens))** - _Acadêmico do Curso de Ciência da Computação -UFFS_. 
+- **[Obenson Maurice](https://github.com/obens)** - _Acadêmico do Curso de Ciência da Computação -UFFS_. 
